@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-👋 Hi, I'm Mohamed BOUMAIZA 
+👋 Hi, I'm Mohamed El Khames BOUMAIZA 
 
 
 🧠 Machine Learning Enthusiast | 🌐 Data Science Explorer
