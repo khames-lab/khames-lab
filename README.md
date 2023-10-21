@@ -9,7 +9,8 @@
 
 🚀 Building AI models for various domains.
 
-📫 Let's connect: [LinkedIn]([LinkedIn](https://www.linkedin.com/in/mohamed-el-khames-boumaiza/))
+📫 Let's connect: [LinkedIn](Your LinkedIn Profile](https://www.linkedin.com/in/mohamed-el-khames-boumaiza/))
+
 
 <!--
 **khames-lab/khames-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
