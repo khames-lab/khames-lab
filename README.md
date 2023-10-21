@@ -9,7 +9,7 @@
 
 🚀 Building AI models for various domains.
 
-📫 Let's connect: [LinkedIn](LinkedIn](https://www.linkedin.com/in/mohamed-el-khames-boumaiza/))
+📫 Let's connect: [LinkedIn](LinkedIn)(https://www.linkedin.com/in/mohamed-el-khames-boumaiza/))
 
 
 <!--
